@@ -1,0 +1,80 @@
+<h2><b><i><u>QUALIFICATIONS AND CAPABILITIES</u></i></b></h2>                                              
+1.  Ability to develop software using various programming languages with OOD & OOP concept including Java, C#, and C++
+2.  Knowledge and working experience with different Operation Systems including Windows, Unix, and Linux (RHEL/CentOS/Ubuntu/Fedora), 
+3.  Solid understand and experience of RDBMS (Oracle,SQL Server, MySQL, PostgreSQL) and abilities of application development with SQL
+4.  Knowledge and experience of web application and application servers: J2EE, JBoss, Tomcat, XML, XSLT, JSP, JavaScript, CSS
+5.  Experience of system integration and support and user support including problem diagnosis, trouble shooting, hardware and software maintenance, and end-user support
+6.  Knowledge and understanding of computer networking including TCP/IP, DNS, DHCP, CIDR etc
+7.  Effective design, resource allocation and status evaluation skill
+
+<h2><b><i><u>TECHNICAL EXPERIENCE AND ACHIEVEMENTS</u></i></b></h2>
+<h3><i>General Electric Company, Vancouver, BC</i></h3>
+<h3><i><b>Senior Linux Build and DevOp Engineer 2016.08 - Present</b></i></h3>
+<p>1.  Design CI/CD system and maintain infrastructure hosted on both GE IX cloud and AWS including provisioning, monitoring, auto-scaling and updating
+2.	Responsible for the creation and maintenance of continuous deployment pipeline (CD) to support fast paced technical design, development, and deployment for developing Embedded Linux Distribution
+3.	Develop tools and write scripts with container technology (Docker) to manage configuration/dependencies and various environments (develop, test, staging, integration) automatically
+4.	Develop tools and write scripts with source code control (e.g. Github, SVN, gerrit) and CI tool (e.g. Jenkins and TeamCity) to achieve fast and reliable integration that be able to produce stable release every day
+5.	Responsible for the creation of software releases and the management of the engineering configuration management and build system</p>
+
+<h3><i>TuGo Travel Insurance, Richmond, BC</i><h3>
+<h3><i><b>Senior DevOp Engineer, 2016.01 - 2016.08</b></i></h3>
+<p>1.	Maintaining all servers (including development, testing, and production) hosted on Amazon AWS 
+2.	Responsible for application deployment for all phases in SDLC from develop, test, staging, to release including DB schema changes (maintaining and executing SQL scripts).
+3.	Monitoring server running status and performance with various tools e.g. AWS CloudWatch,logstash, 
+4.	Maintain and update installation and configuration processes and documentation for all TuGo applications.
+5.	Administer Linux systems for development, test, UAT,staging and production environment.
+6.	Help improve monitoring and help identify key performance metrics.
+7.	Write tools and scripts to provide automation and self-services solutions for other teams.
+8.	Monitor application usage, anticipate problems and suggest solutions for customer issues.
+9.	Achieve performance targets.
+10.	Collaborate and communicate effectively with team members and being the key person who bridges between operation team and development teams. 
+11.	Responsively and effectively handle operation issues and help development team resolving code issues.</p>
+
+
+<h3><i>Syscon Justice Systems, Richmond, BC</i><h3>
+<h3><i><b>Senior DevOp Engineer, 2012.10 - 2015.11</b></i></h3>
+<p>1.	Maintenance (including installation, configuration, and troubleshooting) of the in-house (hosted with VMWare) and cloud based (Amazon AWS) client environments running on both Windows and Linux servers.
+2.	Maintenance and input on application build processes, both baseline builds and tip builds, with automated daily scheduled build process/on-demand build
+3.	Coordinate releases to ensure that the integrity of the delivery environment is protected and correct components and documentation are released.
+4.	Design and automate release processes from build, through to test and defect fixing, to the release of new or changed software in to Delivery pipeline.
+5.	Configuration Management on all Linux based development, testing, and deployment environment using Puppet and VMware templates
+6.	Design and implement release and build pipeline with CI tool, e.g. Hudson/Jenkins
+7.	Creation of environment snapshots and backups for archiving and rollback purposes.
+8.	Restoration and monitoring of databases.
+9.	Setup new “cuts”, and maintain existing development branches.
+10.	Maintenance of the source control system and tools.
+11.	Identify and track work items as they move from development  to QA  until production with artifacts management tool e.g. Apache Artifactory
+12.	Track and maintain product version information for the modules present on the client’s production/QA systems and resolve component/module dependency issues. 
+13.	Creation of Service Packs.</p>
+
+<h3><i>Softcare EC Solution Co., LTD, North Vancouver, BC</i><h3>
+<h3><i><b>System Integration Engineer, 2006.10 - 2012.10</b></i></h3>
+<p>1.	System developing, integration, maintenance and supporting using J2EE, XML, and SQL.
+2.	System developing, integration and supporting with Oracle, MS SQL Server, PostgreSQL, MySQL and Sybase.
+3.	System integration and supporting with Windows, Linux, and UNIX environments.
+4.	System integration and supporting with scripts such as Unix shell
+5.	Good knowledge of installing software on Linux/Unix platforms.
+6.	Customer project management </p>
+
+
+<h3><i>ILLUMINATED TECHNOLOGIES CO., LTD, Vancouver, BC</i><h3>
+<h3><i><b>Co-op Software Developer, 2006.01 - 2006.08</b></i></h3>
+<p>1.	Web application designing and developing
+2.	Production coding and previous projects maintaining
+3.	Source code debugging and documentation</p>
+
+<h3><i>COMPAGNIE DES TABACS COMME IL FAUT. Montreal, Quebec</i><h3>
+<h3><i><b>IT Professional & ACCPAC Specialist, 2000.03 - 2003.08</b></i></h3>
+<p>1.	Help design, implement and optimize the company computer system based on Windows NT platform
+2.	Install, configure and implement ACCPAC Accounting System
+3.	Monitor, tune and optimize system performance, especially for ACCPAC System
+4.	Complete database management, employee training and provide technical support
+5.	Help analyze and plan computer system upgrading and architecture migrating</p>
+
+<h2><b><i><u>TECHNICAL EXPERIENCE AND ACHIEVEMENTS</u></i></b></h2>                                                                   
+<h3><i>SIMON FRASER UNIVERISTY, Vancouver, BC</i><h3>
+<h4><b>Master of Computer Science, OLAP and Data Mining with Parallel Processing, 2009</b></h4>
+
+<h3><i>SIMON FRASER UNIVERISTY, Vancouver, BC</i><h3>
+<h4><b>Bachelor of Computer Science, 2006</b></h4>
+
